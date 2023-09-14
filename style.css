@@ -1,0 +1,16 @@
+.top{
+border: 2px solid red;
+background-color: lightgray;
+align-items: center;
+display: flex;
+justify-content: space-around;
+font-family: monospace;
+font-size: 20px;
+}
+.Rubrik{
+border: 1px solid ;
+background-color: aqua;
+padding-left: 60px;
+padding-right: 60px;
+font-family: sans-serif;
+}
