@@ -1,8 +1,8 @@
 .top{
 border: 2px solid red;
 background-color: lightgray;
-align-items: center;
 display: flex;
+align-items: center;
 justify-content: space-around;
 font-family: monospace;
 font-size: 20px;
@@ -14,3 +14,32 @@ padding-left: 60px;
 padding-right: 60px;
 font-family: sans-serif;
 }
+.middle{
+padding-top: 40px;
+padding-bottom: 40px;
+border: 2px solid yellow;
+display: flex;
+align-items: center;
+justify-content: space-around;
+font-family: monospace;
+}
+.Vänster{
+border: 2px solid;
+background-color: yellow;
+width: 49%;
+align-items: center;
+display: flex;
+justify-content: space-around;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.Höger{
+border: 2px solid;
+background-color: pink;
+width: 49%;
+align-items: center;
+display: flex;
+justify-content: space-around;
+padding-top: 20px;
+padding-bottom: 20px;
+}   
